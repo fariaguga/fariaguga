@@ -1,5 +1,5 @@
-### Olá! Eu sou o Gustavo 👋
-- 🌱 Estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe!</a>
+### Olá! Eu sou o Gustavo :metal:
+- Estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe!</a> 🚀
 ##
 <div>
   <a href="https://github.com/fariaguga">
