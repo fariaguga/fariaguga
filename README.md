@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo 👋
 - 🌱 Estudando Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe!</a>
-
+##
 <div>
   <a href="https://github.com/fariaguga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fariaguga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
